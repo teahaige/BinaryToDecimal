@@ -1,1 +1,1 @@
-"# BinaryToDecimal" 
+# BinaryToDecimal
